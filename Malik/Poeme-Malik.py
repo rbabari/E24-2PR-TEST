@@ -1,5 +1,4 @@
-# fonction afficher un poème
-
+# fonction pour afficher un poème
 def afficher_poeme():
     ligne1 = "Dans le jardin silencieux où la brume se lève,"
     ligne2 = "Chante la lune pâle éclairant les rêves."
