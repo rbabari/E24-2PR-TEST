@@ -1,3 +1,4 @@
-Le ciel est bleu 
-  La vie est belle 
-Que du bonheur ... 
+# Poeme python 
+print(" Le ciel est bleu") 
+print(" ... La vie est belle ")
+print(" Que du bonheur ... ")
