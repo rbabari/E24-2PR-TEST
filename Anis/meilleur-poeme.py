@@ -7,4 +7,13 @@ This poem's beauty, the best we know.
 
 """)
 
-# Bonjour
+x = 0
+def commit():
+  x += 1
+  print(f"commit-{x}")
+
+commit()
+
+commit()
+
+commit()
