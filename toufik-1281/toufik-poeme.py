@@ -116,4 +116,3 @@ Comme un parfum formé du souffle de cent roses,
 C'est bien plus que la terre et le ciel, c'est l'amour !
 
 Victor Hugo
-À découvrir sur le site https://www.poesie-francaise.fr/victor-hugo/poeme-au-bord-de-la-mer.php
