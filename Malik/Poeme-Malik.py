@@ -1,11 +1,12 @@
-# fonction pour afficher un poème
-def afficher_poeme():
-    ligne1 = "Dans le jardin silencieux où la brume se lève,"
-    ligne2 = "Chante la lune pâle éclairant les rêves."
-    ligne3 = "Mon cœur est maintenant ouvert comme une porte."
-    print(ligne1)
-    print(ligne2)
-    print(ligne3)
+# function to print a poem
+def print_poem():
+    line1 = "Dans le jardin silencieux où la brume se lève,"
+    line2 = "Chante la lune pâle éclairant les rêves."
+    line3 = "Mon cœur est maintenant ouvert comme une porte."
+    print(line1)
+    print(line2)
+    print(line3)
+
 
 # Appel de la fonction pour afficher le poème
-afficher_poeme()
+print_poem()
